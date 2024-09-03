@@ -1,7 +1,7 @@
 # Python_Diwali_Sales_Analysis
 This project involves analyzing Diwali sales data to derive insights that can help businesses understand customer behavior, sales patterns, and market trends during the Diwali season. The project utilizes Python for data cleaning, analysis, and visualization.
 
-#Project Overview<br>
+Project Overview<br>
 Diwali, the festival of lights, is a major holiday in India and a significant period for retailers due to the surge in sales. This project analyzes sales data from various retail stores during Diwali to uncover trends and insights. The goal is to:<br>
 
 Understand the purchasing patterns of customers during the Diwali season.<br>
